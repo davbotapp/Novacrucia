@@ -1,7 +1,7 @@
 {
   "PAGE_ACCESS_TOKEN": "EAAPbiZCpS5OEBOZC0qubSROJg2nZCOcJ3HvqsTLyy3HhehuoebgaVzQ2cNu1YCtPLNLs836Am6zJIIFXvZCK619gdmZBVwVxIbkgrFzNvEQC6vZABrC2reej6u2ZAtOazuhs33ImwMZAgLcu931vWiv3HubU6Du1LejjYACwhm2ZCYh8jgPXi7MK7vioSIZBZChtaudEomSngB3",
   "pageID": "",
-  "VERIFY_TOKEN": "YOURKEY",
+  "VERIFY_TOKEN": "config.json",
   "ADMINS": [
     ""
   ],
